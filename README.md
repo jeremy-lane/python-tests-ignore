@@ -1,3 +1,2 @@
 # python-tests-ignore
-Just testing GitHub and python
-Does this work the way I think?
+Just testing GitHub and pythonDoes this work the way I think?
